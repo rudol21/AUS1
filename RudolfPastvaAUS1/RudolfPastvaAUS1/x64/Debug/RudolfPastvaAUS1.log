@@ -1,0 +1,6 @@
+﻿  Dron.cpp
+c:\users\rudolf pastva\desktop\rudolfpastvaaus1\rudolfpastvaaus1\dron.cpp(180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rudolf pastva\desktop\rudolfpastvaaus1\rudolfpastvaaus1\dron.cpp(188): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rudolf pastva\desktop\rudolfpastvaaus1\rudolfpastvaaus1\dron.cpp(201): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rudolf pastva\desktop\rudolfpastvaaus1\rudolfpastvaaus1\dron.cpp(207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  RudolfPastvaAUS1.vcxproj -> C:\Users\Rudolf Pastva\Desktop\RudolfPastvaAUS1\x64\Debug\RudolfPastvaAUS1.exe

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="structures::Array&lt;T&gt;" Collapsed="true">
+    <Position X="5.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAIAAAQhAAAEAAAJAAAAgEIAAAAA=</HashCode>
+      <FileName>struktury\array.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::ArrayList&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgAABAAAAACYgAAABAQAEAAAEAAgAgEAECAAA=</HashCode>
+      <FileName>struktury\array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DSRoutines" Collapsed="true">
+    <Position X="20.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAACAAABEAAAAAAAAAACAAAQAAAAAAAAI=</HashCode>
+      <FileName>struktury\ds_routines.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::ExplicitQueue&lt;T&gt;" Collapsed="true">
+    <Position X="12.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAUAAAAAAAAAAIAAAIBAAAAAAAAAAAAoEBAIAAA=</HashCode>
+      <FileName>struktury\explicit_queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedListItem&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAIAAAAAgAAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>struktury\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedList&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAABBQAAAACYEABABAQAEAAAEAAAAgEIECAAA=</HashCode>
+      <FileName>struktury\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::List&lt;T&gt;" Collapsed="true">
+    <Position X="7.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAAACYAAAAAAQAEAAAEAAAAgEAECAAI=</HashCode>
+      <FileName>struktury\list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Queue&lt;T&gt;" Collapsed="true">
+    <Position X="12.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAACAAAAAAAIAAAIAAQAAAAAAAAAAoEAAAAAA=</HashCode>
+      <FileName>struktury\queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DataItem&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAE=</HashCode>
+      <FileName>struktury\structure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Structure" Collapsed="true">
+    <Position X="7.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAIAAAAAEAAAAAAAAAAAgEAAAQAA=</HashCode>
+      <FileName>struktury\structure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::StructureIterator&lt;T&gt;" Collapsed="true">
+    <Position X="17" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAQAAIAQAAAAgAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>struktury\structure_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Iterator&lt;T&gt;" Collapsed="true">
+    <Position X="18.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAQAAAAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>struktury\structure_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Iterable&lt;T&gt;" Collapsed="true">
+    <Position X="10.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAQAAAAAQAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>struktury\structure_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Vector" Collapsed="true">
+    <Position X="14.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAQAAIAIAQBAAAEAAAIAAEBgEAAAAAA=</HashCode>
+      <FileName>struktury\vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cas">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAiAAAAAAAhQACAABAAAAAAAAgBAAAAAQ=</HashCode>
+      <FileName>Cas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentralnySklad">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgIAYgAACIAABSBAAAEAAYAQAAQADGCAQEQARAMGI=</HashCode>
+      <FileName>CentralnySklad.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dron">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAUgCAgwAgEwBBABAgEBQAgECCAYUQRQISAQAgAAAM=</HashCode>
+      <FileName>Dron.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LokalnPrekladisko">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgQACGhBAEAAGAAAEgEAICYAyKEAABAAhBcAAAATAI=</HashCode>
+      <FileName>LokalnPrekladisko.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Objednavka">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEUAAAAAAgAAAAABAAAQRAIACBACAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Objednavka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatistickeData">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgMAAAAAAIAAAJAAAAAAAAAAAAIAAAAAAAQAQAAAA=</HashCode>
+      <FileName>StatistickeData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vozidlo">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAICAQcIAAQFAAAEABDAFQQAAAAAAgAAAEgggAQAQ=</HashCode>
+      <FileName>Vozidlo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VozovyPark">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAIAgAAAIAAAQAAAAAAAAAAAAABAAAAAEIAACAAE=</HashCode>
+      <FileName>VozovyPark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

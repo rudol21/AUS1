@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\struktury">
+      <UniqueIdentifier>{5b4b05bf-7b45-4fcb-9afd-9952ea40438a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="struktury\ds_routines.cpp">
+      <Filter>Source Files\struktury</Filter>
+    </ClCompile>
+    <ClCompile Include="struktury\structure.cpp">
+      <Filter>Source Files\struktury</Filter>
+    </ClCompile>
+    <ClCompile Include="struktury\vector.cpp">
+      <Filter>Source Files\struktury</Filter>
+    </ClCompile>
+    <ClCompile Include="Objednavka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CentralnySklad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LokalnPrekladisko.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VozovyPark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vozidlo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StatistickeData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="struktury\array.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\array_list.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\ds_routines.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\ds_structure_types.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\heap_monitor.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\linked_list.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\list.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\structure.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\structure_iterator.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\vector.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="Objednavka.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CentralnySklad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\explicit_queue.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="struktury\queue.h">
+      <Filter>Source Files\struktury</Filter>
+    </ClInclude>
+    <ClInclude Include="LokalnPrekladisko.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VozovyPark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vozidlo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StatistickeData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>
